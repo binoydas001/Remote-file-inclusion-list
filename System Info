@@ -1,0 +1,6 @@
+/proc/version
+/proc/cmdline
+/proc/meminfo
+/proc/cpuinfo
+/proc/self/environ
+/proc/self/cmdline
