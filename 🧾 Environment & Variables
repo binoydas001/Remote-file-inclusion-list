@@ -1,0 +1,5 @@
+/proc/self/environ
+/etc/environment
+/etc/profile
+/root/.bashrc
+/home/<username>/.bashrc
